@@ -1,8 +1,7 @@
 .header{
   background-image: url("../Imagini/the-flatiron-building.png");
   background-repeat: no-repeat;
-  opacity: 0.5;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 h1{
@@ -11,7 +10,6 @@ h1{
   font-weight: bold;
   color: white;
   text-align: center;
-  opacity: 1.0;
 }
 
 .hdr{
@@ -19,7 +17,6 @@ h1{
   font-family: Helvetica;
   font-size: 18px;
   color: white;
-  opacity: 1.0;
 }
 
 h2{
@@ -53,7 +50,7 @@ p{
 #NY{
   background-image: url("../Imagini/the-flatiron-building.png");
   background-repeat: no-repeat;
-  opacity: 0.5;
+  background-size: cover;
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
@@ -63,6 +60,6 @@ p{
 
 .cpr{
   text-align: left;
-  background-color: #C0C0C0;
+  background-color: gray;
   color: white;
 }
